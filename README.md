@@ -1,8 +1,8 @@
-# 🌎 E-commerce Shopi
+# 🌎 E-commerce Apnidukaan
 
 <img width="15%" align="right" style="margin:5%" alt="logo" src="https://res.cloudinary.com/silviajcn/image/upload/v1683168997/PRACTICAS/Varios/shopping_h7sjdf.png" />
 
-Shopi is an e-commerce of electronic products. With the latest trends in laptops, tablets and cell phones, as well as innovative accessories that will improve your day to day. Buy now at Shopi and increase your productivity.
+Apnidukaan is an e-commerce of electronic products. With the latest trends in laptops, tablets and cell phones, as well as innovative accessories that will improve your day to day. Buy now at Shopi and increase your productivity.
 
 ## 📃 In the application you can:
 
@@ -62,18 +62,11 @@ https://shopi-app.netlify.app/
 
 ### Desktop:
 
-![Shopi Desktop 1](https://res.cloudinary.com/silviajcn/image/upload/v1683673562/PRACTICAS/Varios/Screenshot_2023-05-09_180545_bejdwm.png)
+![Apnidukaan Desktop 1](https://drive.google.com/file/d/1z08xtpKgW1czZt4I-NI2lTp66mALVGVb/view?usp=drive_link))
 
-![Shopi Desktop 2](https://res.cloudinary.com/silviajcn/image/upload/v1683673611/PRACTICAS/Varios/Screenshot_2023-05-09_180641_rvg3yn.png)
+![Apnidukaan Desktop 2](https://res.cloudinary.com/silviajcn/image/upload/v1683673611/PRACTICAS/Varios/Screenshot_2023-05-09_180641_rvg3yn.png)
 
-![Shopi Desktop 3](https://res.cloudinary.com/silviajcn/image/upload/v1683673730/PRACTICAS/Varios/Screenshot_2023-05-09_180841_kbjdcx.png)
+![Apnidukaan Desktop 3](https://res.cloudinary.com/silviajcn/image/upload/v1683673730/PRACTICAS/Varios/Screenshot_2023-05-09_180841_kbjdcx.png)
 
-![Shopi Desktop 4](https://res.cloudinary.com/silviajcn/image/upload/v1683673776/PRACTICAS/Varios/Screenshot_2023-05-09_180901_mzmrtd.png)
+![Apnidukaan Desktop 4](https://res.cloudinary.com/silviajcn/image/upload/v1683673776/PRACTICAS/Varios/Screenshot_2023-05-09_180901_mzmrtd.png)
 
-
-## 😎 Author
-
-* **Silvia C. Navarro**  - [@silviajcn](https://github.com/silviajcn)
-* **My portfolio** - [My portfolio](https://silviajcn.vercel.app/)
-
-    [![Twitter Badge](https://img.shields.io/badge/-@lectoramigrante-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lectoramigrante)](https://twitter.com/lectoramigrante)
